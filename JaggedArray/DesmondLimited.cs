@@ -56,23 +56,24 @@ namespace JaggedArray
             }
         }
 
-        public string SimpleInterest()
-        {
-            decimal rat = Convert.ToDecimal(R);
-            decimal tim = Convert.ToDecimal(T);
-            return $"The simple interest is {Convert.ToDecimal((P*tim*rat)/100):C}";
-        }
+        // public string SimpleInterest()
+        // {
+        //     decimal rat = Convert.ToDecimal(R);
+        //     decimal tim = Convert.ToDecimal(T);
+        //     return $"is {Convert.ToDecimal((P*tim*rat)/100):C}";
+        // }
 
-        public string CompoundInterest()
-        {
-           decimal subTotal = 0;
-           for (int i = 0; i <= T; i++)
-           {
-               decimal compound = P * (decimal)(Math.Pow((1+R),i));
-                subTotal += compound;
-           }
+        // public string CompoundInterest()
+        // {
+        //    decimal subTotal = 0;
+        //    for (int i = 0; i <= T; i++)
+        //    {
+        //        decimal compound = P * (decimal)(Math.Pow((1+R),i));
+        //         subTotal += compound;
+        //    }
             
-            return $"The compound interest is {subTotal:C}";
-        }
+        //     return $"is {subTotal:C}";
+        // }
+        
     }
 }
