@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\labtask13Delegate\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.exe
+C:\codebits-academy\html5\C#\labtask13Delegate\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.deps.json
+C:\codebits-academy\html5\C#\labtask13Delegate\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.runtimeconfig.json
+C:\codebits-academy\html5\C#\labtask13Delegate\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\labtask13Delegate\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.dll
+C:\codebits-academy\html5\C#\labtask13Delegate\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.pdb
+C:\codebits-academy\html5\C#\labtask13Delegate\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\labtask13Delegate\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\labtask13Delegate\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\labtask13Delegate\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\labtask13Delegate\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.dll
+C:\codebits-academy\html5\C#\labtask13Delegate\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.pdb
+C:\codebits-academy\html5\C#\labtask13Delegate\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.genruntimeconfig.cache
